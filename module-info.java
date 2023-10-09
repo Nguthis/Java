@@ -4,5 +4,5 @@
 /**
  * 
  */
-module marksheet {
+module okoa.java {
 }
