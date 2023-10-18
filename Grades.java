@@ -40,6 +40,7 @@ public class Grades {
 			}else {
 				System.out.println("Marks entered do not exist!!");
 			}
+		//else if statements
 			System.out.println("\t\t\tDepertment of Computer Science");
 			System.out.println("\t\t\tEnd of semester results ");
 			System.out.println("-------------------------------------------------------------------");
